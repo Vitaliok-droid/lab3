@@ -1,0 +1,37 @@
+@font-face{	font-family:epd;	    src:url(fonturi/epd.ttf);}
+@font-face{	font-family:mns;	    src:url(fonturi/mns.ttf);}
+@font-face{	font-family:dnf;	    src:url(fonturi/dnf.ttf);}
+@font-face{	font-family:hmrk;	    src:url(fonturi/hmrk.ttf);}
+@font-face{	font-family:godf;	    src:url(fonturi/godf.ttf);}
+@font-face{	font-family:scra;	    src:url(fonturi/scra.ttf);}
+@font-face{	font-family:scrp;	    src:url(fonturi/scrp.ttf);}
+@font-face{	font-family:metal;	    src:url(fonturi/metal.ttf);}
+@font-face{	font-family:western;	src:url(fonturi/western.ttf);}
+@font-face{	font-family:prec;	    src:url(fonturi/prec.ttf);}
+@font-face{	font-family:blackc;	    src:url(fonturi/blackc.ttf);}
+@font-face{	font-family:Adler;	    src:url(fonturi/Adler.ttf);}
+@font-face{	font-family:clor;	    src:url(fonturi/clor.ttf);}
+@font-face{	font-family:naruto;	    src:url(fonturi/naruto.ttf);}
+@font-face{	font-family:bew;	    src:url(fonturi/bew.ttf);}
+@font-face{	font-family:shog;	    src:url(fonturi/shog.ttf);}
+@font-face{	font-family:bradg;	    src:url(fonturi/bradg.ttf);}
+@font-face{	font-family:underw;   	src:url(fonturi/underw.ttf);}
+@font-face{	font-family:carbonp;    src:url(fonturi/carbonp.ttf);}
+@font-face{	font-family:carbonb;    src:url(fonturi/carbonp.ttf);}
+@font-face{	font-family:earf;       src:url(fonturi/earf.ttf);}
+@font-face{	font-family:faker;      src:url(fonturi/faker.ttf);}
+html {
+	font-family: sans-serif;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+td.tr{
+	text-decoration-style:solid;
+	text-decoration-style: inherit;
+	font-weight: bold;
+}
+body{
+	background-image:url("plane.jpg");
+      	background-repeat: no-repeat;
+      	background-attachment: cover;
+}
